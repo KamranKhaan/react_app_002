@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+// eslint-disable-next-line
+import React, {useState} from 'react';
 import './Room.css';
 
 function Room() {
