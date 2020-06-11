@@ -1,0 +1,38 @@
+.room {
+    text-align: center;
+    justify-content: top;
+    font-size: 15px;
+    height: 100vh;
+}
+.insideRoom{
+    background-color: whitesmoke;
+}
+#temp {
+    color: black;
+    text-shadow: 1px 1px lightsalmon;
+}
+#light {
+    color: black;
+    text-shadow: 1px 1px lightsalmon;
+}
+#reset {
+    color: black;
+    text-shadow: 1px 1px lightsalmon;
+}
+.lightColor{
+    background-color: cyan;
+    display: flex;
+    flex-flow: column;
+    flex-basis: auto;
+    color: black;
+    background-image: url("./logo.svg");
+    width: 100%;
+}
+.darkColor{
+    background-color: black;
+    display: flex;
+    flex-flow: column;
+    flex-basis: auto;
+    color: black;
+    width: 100%;
+}

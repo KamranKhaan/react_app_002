@@ -1,0 +1,90 @@
+<?xml version="1.0"?><svg width="858.51831" height="629.90216" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Room</title>
+ <defs>
+  <linearGradient id="linearGradient4227">
+   <stop stop-color="black" id="stop4229" offset="0"/>
+   <stop stop-color="black" stop-opacity="0" id="stop4231" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4219">
+   <stop stop-color="black" id="stop4221" offset="0"/>
+   <stop stop-color="black" stop-opacity="0" id="stop4223" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4211">
+   <stop stop-color="black" id="stop4213" offset="0"/>
+   <stop stop-color="black" stop-opacity="0" id="stop4215" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4201">
+   <stop stop-color="black" id="stop4203" offset="0"/>
+   <stop stop-color="black" stop-opacity="0" id="stop4205" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4193">
+   <stop stop-color="black" id="stop4195" offset="0"/>
+   <stop stop-color="black" stop-opacity="0" id="stop4197" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4185">
+   <stop stop-color="black" id="stop4187" offset="0"/>
+   <stop stop-color="black" stop-opacity="0" id="stop4189" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4173">
+   <stop stop-color="teal" id="stop4175" offset="0"/>
+   <stop stop-color="teal" stop-opacity="0" id="stop4177" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4156">
+   <stop stop-color="teal" id="stop4158" offset="0"/>
+   <stop stop-color="teal" stop-opacity="0" id="stop4160" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4148">
+   <stop stop-color="yellow" id="stop4150" offset="0"/>
+   <stop stop-color="yellow" stop-opacity="0" id="stop4152" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1.039801" x2="0.499483" y1="0.034826" x1="0.541099" id="linearGradient4154" xlink:href="#linearGradient4148"/>
+  <linearGradient y2="0.407801" x2="-0.10299" y1="0.421986" x1="0.903654" id="linearGradient4162" xlink:href="#linearGradient4156"/>
+  <linearGradient y2="0.440141" x2="1.243056" y1="0.492958" x1="0.09375" id="linearGradient4179" xlink:href="#linearGradient4173"/>
+  <linearGradient y2="0.86991" x2="0.272635" y1="0.32651" x1="0.605958" id="linearGradient4191" xlink:href="#linearGradient4185"/>
+  <linearGradient y2="1.071079" x2="0.129106" y1="0.393928" x1="0.542145" id="linearGradient4199" xlink:href="#linearGradient4193"/>
+  <linearGradient y2="0.987298" x2="0.470787" y1="0.237659" x1="0.451817" id="linearGradient4207" xlink:href="#linearGradient4201"/>
+  <linearGradient y2="0.824235" x2="0.789265" y1="0.303832" x1="0.377226" id="linearGradient4217" xlink:href="#linearGradient4211"/>
+  <linearGradient y2="0.962128" x2="0.865591" y1="0.299363" x1="0.313809" id="linearGradient4225" xlink:href="#linearGradient4219"/>
+  <linearGradient y2="0.862312" x2="0.74507" y1="0.291" x1="0.422281" id="linearGradient4233" xlink:href="#linearGradient4227"/>
+ </defs>
+ <metadata id="metadata3991">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <path fill="#00ffff" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4138" d="m107.312721,395.143646l334.245689,-57.428314l313.072998,56.789978l-332.003021,235.896851l-315.315666,-235.258514z"/>
+   <path fill="url(#linearGradient4217)" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4032" d="m471.354004,594.018494l-43.727386,-29.416565l51.677765,-32.596802l45.317444,23.851318l-53.267822,38.162048z"/>
+   <path fill="url(#linearGradient4207)" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4036" d="m426.831573,564.601929l-50.882721,-34.18689l-50.515137,25.714966l52.806213,39.572632l48.591644,-31.100708z"/>
+   <path fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4040" d="m377.53894,531.210144l50.087677,-25.441376l-42.137268,-23.056213l-51.677765,21.466125l43.727356,27.031464z"/>
+   <path fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4042" d="m424.446442,505.768768l47.702545,-22.261169l51.677795,22.261169l-42.932312,26.236359l-56.448029,-26.236359z"/>
+   <path fill="url(#linearGradient4225)" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4044" d="m570.734314,476.352203l-46.907532,30.211609l43.821411,19.448578l46.813477,-32.964325l-43.727356,-16.695862z"/>
+   <path fill="url(#linearGradient4199)" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4046" d="m333.016541,504.17868l-47.027222,22.380829l-39.384521,-29.416534l48.249695,-17.610596l38.162048,24.646301z"/>
+   <path fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4050" d="m430.878357,463.572418l-45.023376,19.295715l-42.05481,-22.264343l44.528625,-15.337585l42.549561,18.306213z"/>
+   <path fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4052" d="m430.878357,463.572418l50.465759,-21.769592l42.549561,17.811462l-50.465759,23.748596l-42.549561,-19.790466z"/>
+   <path fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4056" d="m523.398926,458.624786l45.023376,-23.253845l47.002441,15.832397l-41.065308,25.7276l-50.96051,-18.306152z"/>
+   <path fill="url(#linearGradient4191)" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4064" d="m197.845276,415.580414l-41.516266,15.024597l47.148834,35.318298l45.822723,-16.699036l-51.455292,-33.64386z"/>
+   <path fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4066" d="m249.795319,449.719025l46.50766,-14.348083l47.002441,25.727661l-48.486725,17.31665l-45.023376,-28.696228z"/>
+   <path fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4068" d="m241.87912,406.179962l52.939575,30.180481l41.560028,-13.358582l-57.392426,-26.717163l-37.107178,9.895264z"/>
+   <path fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4070" d="m387.339264,443.781891l50.960541,-16.821899l-49.971008,-19.295776l-48.981476,16.327209l47.991943,19.790466z"/>
+   <path fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4074" d="m326.978241,384.905151l44.033875,-8.905701l61.845306,18.306183l-44.033875,13.358582l-61.845306,-22.759064z"/>
+   <path fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4076" d="m438.794556,426.959991l42.05481,-16.82196l46.012939,13.358582l-44.033875,18.801025l-44.033875,-15.337646z"/>
+   <path fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4080" d="m435.825989,394.800415l61.845276,-19.295746l46.50769,11.379547l-61.845276,22.759064l-46.50769,-14.842865z"/>
+   <path fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4082" d="m528.346558,423.496613l61.350525,-26.222382l40.075745,10.389984l-60.360962,28.696228l-41.065308,-12.863831z"/>
+   <path fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4084" d="m434.341675,360.167053l-62.340027,15.337616l-54.91864,-16.327148l60.855774,-12.863831l56.402893,13.853363z"/>
+   <path fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4086" d="m435.825989,360.167053l60.855774,-13.358582l62.834839,10.389984l-60.361023,18.800995l-63.32959,-15.832397z"/>
+   <path fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4088" d="m548.137085,387.378967l55.908142,-21.769531l40.075745,7.916199l-52.444824,23.253815l-43.539063,-9.400482z"/>
+   <path fill="url(#linearGradient4233)" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4090" d="m707.945313,425.970428l-36.612427,-8.41095l-53.434326,33.149109l37.107178,12.863831l52.939575,-37.60199z"/>
+   <path fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4092" d="m630.267639,406.674713l50.96051,-25.727661l38.09668,7.421448l-46.012878,28.696228l-43.044312,-10.390015z"/>
+   <path fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4094" d="m325.493958,385.399933l-46.012878,10.884766l-48.981506,-21.769562l44.033875,-8.905701l50.96051,19.790497z"/>
+   <path fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4096" d="m154.306152,388.3685l38.591492,-7.421448l46.50766,25.727661l-41.065277,9.400513l-44.033875,-27.706726z"/>
+   <path fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="3.6" stroke-miterlimit="4" id="path4102" d="m437.189941,105.186897l-433.933784,-103.386894l0,0l-1.456146,2.912308l435.389931,100.474586l5.824585,230.072289l-318.897621,58.246124"/>
+   <path fill="#ff007f" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4130" d="m1.800011,1.800003l433.933754,103.386894l4.368469,228.616112l-436.846077,78.632324"/>
+   <path fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4104" d="m438.646057,105.186897l2.912354,231.528435"/>
+   <path fill="#7fff00" fill-rule="evenodd" stroke="#000000" stroke-width="1px" id="path4134" d="m858.018311,415.347626l-416.4599,-80.08844l-2.912354,-230.072289l410.635315,-103.386894"/>
+   <path fill="#7fff00" fill-rule="evenodd" stroke="#000000" stroke-width="1px" stroke-miterlimit="4" id="path4108" d="m847.825256,3.256149l-409.179199,101.930748l4.368469,231.528435l313.073059,59.702301"/>
+   <path fill="#ffffff" fill-rule="evenodd" stroke="#000000" stroke-width="1px" stroke-miterlimit="4" id="path4112" d="m547.857605,135.766144l1.456177,104.843048l107.755371,1.456146l-2.912354,-123.773064l-106.299194,17.473869z"/>
+   <path fill="#ffff00" fill-rule="evenodd" stroke="#000000" stroke-width="3.7" stroke-miterlimit="4" id="path4118" d="m322.153809,129.941498l0,222.791534l-90.281525,20.386139l-2.912323,-257.739189l93.193848,14.561516z"/>
+   <path fill="#ffffff" fill-rule="evenodd" stroke="#000000" stroke-width="1px" stroke-miterlimit="4" id="path4120" d="m78.976143,90.625359l0,147.071541l100.474602,-1.456177l0,-128.141518l-100.474602,-17.473846z"/>
+   <path fill="#ffffff" fill-rule="evenodd" stroke="#000000" stroke-width="2.152" stroke-miterlimit="4" id="path4126" d="m304.456024,244.929443l-0.403076,9.24118l8.061768,-0.770081l0,-8.85614l-7.658691,0.38504z"/>
+  </g>
+ </g>
+</svg>
